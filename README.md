@@ -45,9 +45,8 @@ This script will:
 
 You can watch the following example video to see the API in action:
 
-<video style="max-width: 100%; height: auto;" controls muted>
-  <source src="https://github.com/user-attachments/assets/d25d0c4c-d5a8-43f5-aaa2-ab6cc697f784" type="video/mp4">
-</video>
+![Example Video](docs/example_video.gif)
+
 
 ### Stopping the API Server
 
