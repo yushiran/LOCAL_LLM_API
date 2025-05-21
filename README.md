@@ -41,7 +41,11 @@ This script will:
 3. Keep the server running even if you close the terminal
 4. Create a log file in the `logs` directory
 
-<video style="max-width: 100%; height: auto;" controls>
+### Example Video
+
+You can watch the following example video to see the API in action:
+
+<video style="max-width: 100%; height: auto;" controls muted>
   <source src="docs/example_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
